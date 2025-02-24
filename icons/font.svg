@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg fill="#000000" height="800px" width="800px" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 60 60" xml:space="preserve">
+<g>
+	<g>
+		<path d="M2,2h38v10H13c-0.6,0-1,0.4-1,1v9c0,0.6,0.4,1,1,1h27v10H13c-0.6,0-1,0.4-1,1v6h2v-5h27c0.6,0,1-0.4,1-1V22
+			c0-0.6-0.4-1-1-1H14v-7h27c0.6,0,1-0.4,1-1V1c0-0.6-0.4-1-1-1H1C0.4,0,0,0.4,0,1v39h2V2z"/>
+		<path d="M12,58H2v-4H0v5c0,0.6,0.4,1,1,1h12c0.6,0,1-0.4,1-1v-5h-2V58z"/>
+		<path d="M58,58h-9v-4h-2v5c0,0.6,0.4,1,1,1h11c0.6,0,1-0.4,1-1v-5h-2V58z"/>
+		<path d="M59,0H48c-0.6,0-1,0.4-1,1v38h2v-8h5v-2h-5v-8h5v-2h-5v-8h5V9h-5V2h9v37h2V1C60,0.4,59.6,0,59,0z"/>
+		<path d="M59,43h-6H10c-0.2,0-0.5,0.1-0.6,0.2l-8.7,2.9C0.3,46.2,0,46.6,0,47s0.3,0.8,0.7,0.9l8.7,2.9c0.1,0.1,0.3,0.1,0.4,0.2
+			c0.1,0,0.1,0,0.2,0h38h5h1h5c0.6,0,1-0.4,1-1v-6C60,43.4,59.6,43,59,43z M9,45.4v3.2L4.2,47L9,45.4z M11,49v-1h38v-2H11v-1h41v4
+			h-4H11z M58,49h-4v-4h4V49z"/>
+	</g>
+</g>
+</svg>
